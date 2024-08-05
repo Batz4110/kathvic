@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Group ni Karl</title>
+    <style>
+        body {
+            background-color: #1e1e1e;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        .content {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #333333;
+            border-radius: 10px;
+        }
+        h1 {
+            color: #ffcc00;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Group ni Karl</h1>
+        <img src="Karlmaygawa.jpg" alt="Luciña the Fairy">
+        <p>In the starry night, a naughty fairy named Luciña flitted through the sky, leaving a trail of mischief in her wake. She sprinkled sleeping dust on the animals, tangled the fireflies' lights, and rearranged the stars into silly shapes. Her antics caught the attention of Luna, the Moon Guardian, who warned Luciña to stop her pranks. Ignoring the warning, Luciña continued her playful chaos until Luna's patience ran out. With a wave of her hand, Luna cast a spell, and Luciña felt a sharp pang as one of her delicate wings vanished. Grounded and remorseful, Luciña realized the cost of her mischievousness, learning a hard lesson under the watchful eyes of the night sky.</p>
+    </div>
+</body>
+</html>
